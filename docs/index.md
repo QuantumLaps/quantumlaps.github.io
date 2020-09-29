@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/QuantumLaps/quantumlaps.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QuantumLaps/quantumlaps.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+</style>
+<div class="center">
+<img src = https://avatars3.githubusercontent.com/u/69033340?s=200&v=4 alt="Reborn">
+</div>
+<div class="center">
+<h1> Quantum Laps </h1>
+</div>
+</head>
+<body>
+<h2> Networking System Using C++ </h2>
+<marquee width="100%" direction="right" height="70px">
+<h2> Contribution Stats </h2>
+</marquee>
+<ul>
+<li> <u><b>Maahir Sharma</b></u> : <b>Graph Theory Functionalities</b><i>(Module Handled and Created:Graph Theory Functionalities)</i> </li>
+<li> <u><b>Kushagra Sharma</b></u> : <b>Trees and Tries Functionalities</b><i>(Module Handled and Created:Tree Algorithms)</i> </li>
+<li> <u><b>Rahul Das</b></u> : <b>Huffman Decoding Functionalities</b><i>(Module Handled and Created:Huffman string and Huffman Tree)</i> </li>
+<li> <u><b>Ravi Gusain</b></u> : <b>LinkedList Functionalities</b><i>(Module Handled and Created : LinkedList Implementation in OS Processes)</i> </li>
+<p1> 
+<h2> Networking System Using C++ </h2>
+<marquee width="100%" direction="right" height="70px">
+<h2> Functionalities </h2>
+</marquee>
+<ul>
+<li> Setting up Router Networks with Edges </li>
+<li> Calculation of Routing Tables via Bellmann Ford Algorithm </li>
+<li> Finding the Maximal Strongly Connected Sub Network via KosaRaju Algorithm </li>
+<li> Vinzing's Theorem </li>
+<li> Huffmann Encoding and Decoding </li>
+<li> LinkedList Deadlock Process detection using Floyd's Algo </li>
+<li> Node flooding as Router Tree </li>
+</body>
+</html>
